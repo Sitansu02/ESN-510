@@ -27,4 +27,4 @@ grid on;
 legend('Location', 'best');
 title('Projectile motion');
 xlabel('Horizontal Distance (m)');
-ylabel('Vertical Height (m)');
+ylabel('Vertical Height (m)');
